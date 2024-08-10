@@ -69,3 +69,6 @@ html,body{
   @-ms-keyframes love {
     0%{top:110%}
   }
+audio {
+  display: none;
+}
